@@ -5,7 +5,7 @@
   <p>Linkedin</p>
 </a><br>
 
-<p>Hi, my name's is Daniel Roberto da Silva, i'm a web development front-end and back-end and i studying at Trybe, here i can learn programing languages and i'm very excited to learn more and more!</p>
+<p>I'm Daniel Roberto da Silva, i'm a web development front-end and back-end and i studying at Trybe, here i can learn programing languages and i'm very excited to learn more and more!</p>
 
 - 👨🏽‍💻 I’m currently a student at <a href="https://www.linkedin.com/school/betrybe">Trybe</a>
 - 🌱 I’m working in become a FullStack developer.
