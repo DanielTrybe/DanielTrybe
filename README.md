@@ -15,6 +15,8 @@
 - 📫 Please email via daniel.roberto1991@hotmail.com to reach me.
 - 📝 For more information contact me!.
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 ![Daniel Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielTrybe&show_icons=true&theme=radical)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTrybe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
