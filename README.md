@@ -6,7 +6,7 @@
 </a><br>
 
 <p>I'm Daniel Roberto da Silva, i'm a web development front-end and back-end and i studying at Trybe, here i can learn programing languages and i'm very excited to learn more and more!</p>
-
+<p align="left">
 - 👨🏽‍💻 I’m currently a student at <a href="https://www.linkedin.com/school/betrybe">Trybe</a>
 - 🌱 I’m working in become a FullStack developer.
 - 🤔 My interests are with learn new programing langagues and pratice my hard and soft skills.
@@ -14,7 +14,8 @@
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via daniel.roberto1991@hotmail.com to reach me.
 - 📝 For more information contact me!.
-
+</p>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTrybe&layout=compact&hide=true)](https://github.com/anuraghazra/github-readme-stats)<br>
  
 **Languages and Tools:**  
