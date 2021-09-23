@@ -7,7 +7,7 @@
 
 <p>Hi, my name's is Daniel Roberto da Silva, i'm a web development front-end and back-end and i studying at Trybe, here i can learn programing languages and i'm very excited to learn more and more!</p>
 https://www.linkedin.com/school/betrybe/
-- 👨🏽‍💻 I’m currently a student at <a href="https://www.linkedin.com/school/betrybe" />
+- 👨🏽‍💻 I’m currently a student at <a href="https://www.linkedin.com/school/betrybe">Trybe</a>
 - 🌱 I’m currently learning Deep Reinforcement Learning; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
