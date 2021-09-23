@@ -2,8 +2,6 @@
 
 ![Daniel Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielTrybe&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTrybe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Daniel Roberto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanielTrybe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **DanielTrybe/DanielTrybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
