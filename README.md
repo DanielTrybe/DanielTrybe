@@ -29,8 +29,7 @@
 <br>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTrybe&layout=compact&hide=true)](https://github.com/anuraghazra/github-readme-stats)<br><br>
+<img align="left" alt="in" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTrybe&layout=compact&hide=true)](https://github.com/anuraghazra/github-readme-stats" />
 <img align="left" alt="in" src="https://github-readme-stats.vercel.app/api?username=DanielTrybe&show_icons=true&theme=radical&include_all_commits=true" />
 
 
