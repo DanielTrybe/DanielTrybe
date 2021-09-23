@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Daniel Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielTrybe&show_icons=true&theme=radical)
+
+
 <!--
 **DanielTrybe/DanielTrybe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
