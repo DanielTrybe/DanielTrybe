@@ -28,6 +28,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <img align="left" alt="in" src="https://github-readme-stats.vercel.app/api?username=DanielTrybe&show_icons=true&theme=radical&include_all_commits=true" />
-<img width="100%" height="100px" align="right" alt="in" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTrybe&layout=compact&hide=true)](https://github.com/anuraghazra/github-readme-stats" />
+<img width="50%" align="right" alt="in" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTrybe&layout=compact&hide=true)](https://github.com/anuraghazra/github-readme-stats" />
 
 
