@@ -6,10 +6,10 @@
 </a><br>
 
 <p>Hi, my name's is Daniel Roberto da Silva, i'm a web development front-end and back-end and i studying at Trybe, here i can learn programing languages and i'm very excited to learn more and more!</p>
-https://www.linkedin.com/school/betrybe/
+
 - 👨🏽‍💻 I’m currently a student at <a href="https://www.linkedin.com/school/betrybe">Trybe</a>
-- 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+- 🌱 I’m working in become a FullStack developer; 
+- 🤔 My interests are with learn new programing langagues and pratice my hard and soft skills.
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via mabrouki.mehdi25@gmail.com to reach me.
