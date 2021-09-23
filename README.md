@@ -27,6 +27,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTrybe&layout=compact&hide=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Daniel Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielTrybe&show_icons=true&theme=radical)
 
