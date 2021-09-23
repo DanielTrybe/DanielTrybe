@@ -17,7 +17,9 @@
 - 📝 For more information contact me!.
   </p>
 <p>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTrybe&layout=compact&hide=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+  
   </p>
 </div>
 **Languages and Tools:**  
