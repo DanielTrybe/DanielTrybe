@@ -31,5 +31,5 @@ I'm Daniel Roberto da Silva, i'm a web development front-end and back-end and i 
 <img width="380" align="left" alt="in" src="https://github-readme-stats.vercel.app/api?username=DanielTrybe&show_icons=true&theme=radical&include_all_commits=true" />
 <br><br><br><br><br><br><br><br>
 <img width="380" align="left" alt="in" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTrybe&layout=compact&hide=true)](https://github.com/anuraghazra/github-readme-stats" />
- <p align="right">#### Working on a sale shop!</p>
+ <code><p align="right">#### Working on a sale shop!</p></code>
 
