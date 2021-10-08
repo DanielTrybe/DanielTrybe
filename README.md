@@ -7,7 +7,7 @@
 
 I'm Daniel Roberto da Silva, i'm a web development front-end and back-end and i studying at Trybe, here i can learn programing languages and i'm very excited to learn more and more!
 
- <img width="400" align="right" alt="GIF" src="https://cdn.fbsbx.com/v/t59.2708-21/242753325_3213331172272023_1237889975574396851_n.gif?_nc_cat=111&ccb=1-5&_nc_sid=041f46&_nc_ohc=JkB7vqE9DDcAX94ljqW&_nc_ht=cdn.fbsbx.com&oh=362e90ee57f72be76ddd069463e0926f&oe=614FF21D" />
+ <img width="400" align="right" alt="GIF" src="https://drive.google.com/file/d/1WqNfEQBklKBwYSzg3UsmzV27ZO0Y8DD-/view" />
 
 - 👨🏽‍💻 I’m currently a student at <a href="https://www.linkedin.com/school/betrybe">Trybe</a>
 - 🌱 I’m working in become a FullStack developer.
