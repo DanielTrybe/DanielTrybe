@@ -27,6 +27,7 @@ I'm Daniel Roberto da Silva, i'm a web development front-end and back-end and i 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="50" src="https://repository-images.githubusercontent.com/376541230/0d2e0480-ce2a-11eb-8b6b-6989957843ca"></code>
 <br><br>
 
 <img width="380" align="left" alt="in" src="https://github-readme-stats.vercel.app/api?username=DanielTrybe&show_icons=true&theme=radical&include_all_commits=true" />
