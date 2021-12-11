@@ -12,7 +12,7 @@ I'm Daniel Roberto da Silva, i'm a web development front-end and back-end and i 
 - 👨🏽‍💻 I’m currently a student at <a href="https://www.linkedin.com/school/betrybe">Trybe</a>
 - 🌱 I’m working in become a FullStack developer.
 - 🤔 My interests are with learn new programing languages and pratice my hard and soft skills.
-- 💼 I’m searching for a new job, contact me and we can talk.
+- 💼 I’m Software Developer at <a href="https://www.easytech.com.br/">EasyTech</a>
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via daniel.roberto1991@hotmail.com to me.
 - 📝 For more information contact me!.
