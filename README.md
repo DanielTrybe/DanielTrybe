@@ -12,7 +12,7 @@ I'm Daniel Roberto da Silva, i'm a front-end and back-end web developer, here i 
 - 👨🏽‍💻 Hello!
 - 🌱 I’m working in become a React native developer.
 - 🤔 My interests are with learn new programing languages and pratice my hard and soft skills.
-- 💼 I’m Software Developer searching for a job.
+- 💼 I’m Software Developer at Compass.Uol.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via daniel.roberto1991@hotmail.com to me.
 - 📝 For more information contact me!.
